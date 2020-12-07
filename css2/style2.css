@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Kufam&display=swap');
+
+.background {
+    width: 1280px;
+    height: 720px;
+    position:absolute;
+    background-color: #2c361b;
+}
+
+.만나지말 {
+    font-size: 350px; 
+    font-family: 'Black Han Sans', sans-serif;
+    color: #2c361b; 
+    position: absolute;
+    left: 4%; 
+    top: 1%;
+}
+
+.고만나요 {
+    font-size: 350px; 
+    font-family: 'Black Han Sans', sans-serif;
+    color: #2c361b;
+    position: absolute;
+    left: 4%; 
+    top: 47%;
+}
+
+
+
+
+.함께해요 {
+    font-size: 68px; 
+    font-family: 'Black Han Sans', sans-serif;
+    color: white; 
+    position: absolute;
+    left: 6.5%; 
+    top: 36.74%;
+}
+
+.이 {
+    font-size: 90px; 
+    font-family: 'Black Han Sans', sans-serif;
+    color: white; 
+    position: absolute;
+    left: 43%; 
+    top: 5.3%;
+}
+
+.공 {
+    font-size: 90px; 
+    font-family: 'Black Han Sans', sans-serif;
+    color: white; 
+    position: absolute;
+    left: 43%; 
+    top: 14.7%;
+}
+
+.둘 {
+    font-size: 90px; 
+    font-family: 'Black Han Sans', sans-serif;
+    color: white; 
+    position: absolute;
+    left: 43%; 
+    top: 24.3%;
+}
+
+.영 {
+    font-size: 90px; 
+    font-family: 'Black Han Sans', sans-serif;
+    color: white; 
+    position: absolute;
+    left: 43%; 
+    top: 33.6%;
+}
+
+.N {
+    font-size: 47px; 
+    font-family: 'Black Han Sans', sans-serif;
+    color: white; 
+    position: absolute;
+    left: 74.9%; 
+    top: 18.5%;
+}
+
+.택트로 {
+    font-size: 40px; 
+    font-family: 'Black Han Sans', sans-serif;
+    color: white; 
+    position: absolute;
+    left: 78.2%; 
+    top: 19.2%;
+}
+
+.즐기는 {
+    font-size: 69px; 
+    font-family: 'Black Han Sans', sans-serif;
+    color: white; 
+    position: absolute;
+    left: 8.65%; 
+    top: 81.1%;
+}
+
+.안 {
+    font-size: 80px; 
+    font-family: 'Black Han Sans', sans-serif;
+    color: white; 
+    position: absolute;
+    left: 51.3%; 
+    top: 53.5%;
+    flex-direction: column;
+}
+
+.전 {
+    font-size: 80px; 
+    font-family: 'Black Han Sans', sans-serif;
+    color: white; 
+    position: absolute;
+    left: 51.5%; 
+    top: 64%;
+    flex-direction: column;
+}
+
+.한 {
+    font-size: 80px; 
+    font-family: 'Black Han Sans', sans-serif;
+    color: white; 
+    position: absolute;
+    left: 51.3%; 
+    top: 74.6%;
+    flex-direction: column;
+}
+
+.크리스마스 {
+    font-size: 62px; 
+    font-family: 'Black Han Sans', sans-serif;
+    color: white; 
+    position: absolute;
+    left: 74%; 
+    top: 82%;
+}
+
+.전원버튼 {
+    position: absolute;
+    top: 8.9%;
+    left: 73.4%;
